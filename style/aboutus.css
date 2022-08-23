@@ -1,0 +1,46 @@
+.hotel-about-image
+{
+    background-image:url('../images/hotel-img-7.jpg');
+    height:500px;
+    width:100%;
+    background-size:cover;
+    text-align: center;
+}
+/* section 2 */
+.section2
+{
+background-color:aliceblue;
+}
+.about-1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color:aliceblue;
+    color:grey;
+}
+.about-1-area
+{
+    flex-basis: 500px;
+}
+.about-image
+{
+    width:90%;
+    height:360px;
+}
+.about-header
+{
+    font:bold 40px sans-serif;
+    font-style: italic;
+    margin-top: 30px;
+    text-align: center;
+}
+.about-content
+{
+    word-wrap: break-word;
+    font-size: 25px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    line-height: 30px;
+    text-align: center;
+}

@@ -1,0 +1,257 @@
+/* index.html */
+@media screen and (max-width:480px){
+    /* index.html */
+    /* .logo
+    {
+       margin: auto;
+    } */
+    .nav-list >li
+    {
+        width:100%;
+        text-align: center;
+        padding:7px;
+    }
+    .hotel-main-image
+    {
+        height: 400px;
+    }
+    .hotel-main-image-content
+    {
+        font-size:30px;
+        line-height: 50px;
+    }
+    .hotel-main-image-content-1
+    {
+        font-size: 17px;
+    }
+    .bookings-btn
+    {
+        margin-top: 10%;
+    }
+    .main-facilities
+    {
+        font-size: 30px;
+    }
+    .main-facilities-lower
+    {
+        font-size: 20px;
+    }
+    .facilities-content
+    {
+        font-size: 18px;
+    }
+    .hotel-about-image
+    {
+        height: 400px;
+    }
+    .about-image
+    {
+        width:100%;
+    }
+    .about-content
+    {
+        margin-top: 20px;
+    }
+    .about-content-1
+    {
+        font-size: 30px;
+        padding-left: 20px;
+    }
+    .about-content-2
+    {
+        font-size: 17px;
+        text-align: center;
+        padding-left: 20px;
+    }
+    .about-btn
+    {
+        margin-bottom: 20px;
+    }
+    .flex2-container2 > div
+    {
+        margin-top: 20px;
+    }
+    .hotel-contact-image
+    {
+        height: 400px;
+    }
+    .location-content
+    {
+        font-size: 17px;
+    }
+    .footer-list  ul li a
+    {
+        font-size: 12px;
+    }
+    /* about.html */
+    .about-header
+    {
+        font-size: 30px;
+        text-align: center;
+    }
+    .about-content
+    {
+        font-size: 17px;
+    }
+    /* contactus.html */
+    .social
+    {
+        font-size: 20px;
+    }
+
+    .contact-info-heading
+    {
+        font-size: 20px;
+    }
+    .contact-info-heading > div
+    {
+        font-size: 17px;
+    }
+    .contact-info-heading
+    {
+        font-size: 25px;
+    }
+    .contact-info-heading > div
+    {
+        font-size: 20px;
+    }
+    /* booking */
+    .form-heading
+    {
+        font-size: 30px;
+    }
+    .hotel-booking-image
+    {
+        height: 400px;
+    }
+    [type="text"],[type="date"]
+    {
+        width:290px;
+    }
+    .submit
+    {
+        width:200px;
+        font-size: 17px; ;
+    }
+    /* copyright */
+    .copyright
+    {
+        padding-top: 20px;
+        font-size :10px;
+    }
+
+}
+@media screen and (min-width:480px) and (max-width:768px){
+    .logo
+    {
+        text-align: center;
+    }
+    .nav-list >li
+    {
+        width:100%;
+        text-align: center;
+        padding:10px;
+    }
+    .nav-list >li
+    {
+        width:100%;
+        text-align: center;
+    }
+    
+    .hotel-main-image-content
+    {
+        font-size:40px;
+        line-height: 60px;
+        padding-top: 20%;
+    }
+    .bookings-btn
+    {
+        margin-top: 5%;
+    }
+  
+    .main-facilities
+    {
+        font-size: 40px;
+    }
+    .main-facilities-lower
+    {
+        font-size: 25px;
+    }
+    .about-image
+    {
+        width:100%;
+    }
+    .about-content
+    {
+        margin-top: 20px;
+    }
+    .about-content-1
+    {
+        font-size: 40px;
+    }
+    .about-content-2
+    {
+        font-size: 18px;
+        text-align: center;
+        padding-left: 20px;
+    }
+    .about-btn
+    {
+        margin-bottom: 20px;
+    }
+    .flex2-container2 > div
+    {
+        margin-top: 20px;
+    }
+     /* about.html */
+     .about-header
+     {
+         font-size: 30px;
+         text-align: center;
+     }
+     .about-content
+     {
+         font-size: 20px;
+     }
+
+     /* contactus.html */
+     .contact-info-heading
+     {
+         font-size: 25px;
+     }
+    .form-heading
+    {
+        font-size: 35px;
+    }
+    [type="text"],[type="date"]
+    {
+        width:350px;
+    }
+    .submit
+    {
+        width:230px;
+        font-size: 22px; ;
+    }
+    /* copyright */
+    .copyright
+    {
+        padding-top: 20px;
+    }
+
+}
+@media screen and (min-width:769px) and (max-width:1200px)
+{
+    .about-content
+    {
+        /* margin: auto; */
+        margin-top: 20px;
+    }
+    .flex2-container2 > div
+    {
+        margin-top: 20px;
+    }
+    .contact-info-heading
+    {
+        font-size: 25px;
+    }
+}

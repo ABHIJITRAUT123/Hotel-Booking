@@ -1,0 +1,124 @@
+
+.hotel-contact-image
+{
+    background-image:url('../images/hotel-img-1.jpg');
+    opacity:0.9;
+    height:500px;
+    width:100%;
+    background-size:cover;
+    text-align: center;
+}
+.contactflex
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+/* forms */
+.form-heading
+{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+[type="text"]
+{
+    width:300px;
+    height: 60px;
+    border:none;
+    outline: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    /* border:1px solid grey; */
+    border-radius:20px;
+    box-shadow:2px 2px 5px 1px lightgrey;
+    margin:20px;
+    padding: 15px;
+}
+::placeholder
+{
+    font-size: 17px;
+}
+textarea
+{
+    width:300px;
+    height: 200px;
+    border:none;
+    outline: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    border-radius:20px;
+    box-shadow:2px 2px 5px 2px lightgrey;
+    margin:20px;
+    padding: 15px;
+}
+.submit
+{
+    width:250px;
+    height: 60px;
+    background-image:linear-gradient(to right,black,var(--color));
+    color:white;
+    border:none;
+    border-radius: 40px;
+    text-align: center;
+    font-size:25px;
+    font-family: sans-serif;
+    margin-left:35px;
+}
+.submit:hover
+{
+    opacity:0.7;
+    cursor: pointer;
+}
+/* address */
+.address
+{
+    margin-top: 40px;
+}
+.address >div
+{
+    margin-top: 30px;
+}
+.social
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.falink .fa
+{
+    color:var(--fa);
+}
+.contact-info-heading
+{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.contact-info-heading > div
+{
+    padding-top: 20px;
+    color:grey;
+    font-size: 20px;
+}
+.social-contact >a
+{
+    padding-left: 20px;
+}
+.social-contact >a:hover
+{
+    opacity:0.6;
+}
+.contact-content
+{
+    padding-left: 20px;
+}
+.contact-location-content-br
+{
+    padding-left: 70px;
+}
