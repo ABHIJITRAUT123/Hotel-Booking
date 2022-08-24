@@ -1,4 +1,4 @@
-## BEQUICK_Hotel_Booking_Web
+## LIGORA_Hotel_Booking_Web
 ### Introduction
 This project is all about hotel website containing static data of hotel.This website is fully responsive to all the screen sizes.
 ### Table Of Content
@@ -12,6 +12,7 @@ To show the website open the index.html file.This file listing all the other fil
 ### Technologies
 * html
 * CSS
+* JavaScript
 
 ### Requirements
 * Text Editor Or An Online IDE(*to open and review code*)
